@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "7391593189",
+    "firebase_url": "https://internship-ef428-default-rtdb.firebaseio.com",
+    "project_id": "internship-ef428",
+    "storage_bucket": "internship-ef428.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7391593189:android:f224df1b019f7bb00d4a0c",
+        "android_client_info": {
+          "package_name": "com.example.internlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKPLFBRT41UCxJFHMB1phdKC8EJ4yfg_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

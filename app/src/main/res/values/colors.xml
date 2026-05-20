@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Logo Colors -->
+    <color name="primary_blue">#1549BC</color>
+    <color name="cyan_blue">#1194EA</color>
+    <color name="green_teal">#27AF84</color>
+    <color name="dark_navy">#1A4568</color>
+    <color name="yellow_gold">#F5B436</color>
+    <color name="light_blue_gray">#87BAC8</color>
+
+    <!-- Theme Application -->
+    <color name="primary">@color/primary_blue</color>
+    <color name="primary_variant">#0D3A9B</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <color name="secondary">@color/green_teal</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#F8F9FA</color>
+    <color name="on_surface">@color/dark_navy</color>
+
+    <color name="text_heading">@color/primary_blue</color>
+    <color name="text_body">@color/dark_navy</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_link">@color/cyan_blue</color>
+
+    <color name="error">#B00020</color>
+    <color name="success">@color/green_teal</color>
+    <color name="warning">@color/yellow_gold</color>
+
+    <color name="logout_red">#D32F2F</color>
+
+    <color name="outline">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Material 3 placeholders -->
+    <color name="primary_container">#E3F2FD</color>
+    <color name="on_primary_container">@color/primary_blue</color>
+    <color name="secondary_container">#E8F5E9</color>
+    <color name="on_secondary_container">@color/green_teal</color>
+</resources>
